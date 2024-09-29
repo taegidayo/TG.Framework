@@ -1,4 +1,4 @@
-package org.tg.framewalk.tg_framewolk;
+package org.tg.framewolk.Main;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
@@ -15,9 +15,13 @@ public class HelloApplication extends Application {
         stage.setTitle("Hello!");
         stage.setScene(scene);
         stage.show();
+
     }
 
     public static void main(String[] args) {
         launch();
+
+
+
     }
 }

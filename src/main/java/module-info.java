@@ -1,8 +1,8 @@
-module org.tg.framewalk.tg_framewolk {
+module org.tg.framewolk.Framework {
     requires javafx.controls;
     requires javafx.fxml;
 
 
-    opens org.tg.framewalk.tg_framewolk to javafx.fxml;
-    exports org.tg.framewalk.tg_framewolk;
+    opens org.tg.framewolk.Main to javafx.fxml;
+    exports org.tg.framewolk.Main;
 }
