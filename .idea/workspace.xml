@@ -5,33 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97ef6c51-8488-4aa1-a316-d15e39fb9824" name="변경" comment="기본 프로젝트 생성&#10;DBHelper 제작중">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/tg/framewolk/Helper/DB/DBHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/tg/framewolk/Helper/DB/DataTemplate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/tg/framewolk/Result/Result.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/tg/demo/demo/HelloApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/tg/demo/demo/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/resources/org/tg/demo/demo/hello-view.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tg/framewolk/Logger/Logger.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/tg/framewalk/tg_framewolk/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/tg/framewolk/Main/HelloApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/tg/framewalk/tg_framewolk/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/tg/framewolk/Main/HelloController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/org/tg/framewalk/tg_framewolk/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/tg/framewolk/Main/hello-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tg/framewolk/Helper/DB/DBHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/tg/framewolk/Helper/DB/DBHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tg/framewolk/Helper/DB/DataTemplate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/tg/framewolk/Helper/DB/DataTemplate.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,8 +31,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="AnnotationType" />
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -70,9 +49,9 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2mkBdMNjeXijighDNeYfuGg07t7" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -84,6 +63,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "temurin-17",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/taegi/Desktop/프로젝트/Java/TG.FrameWolk",
@@ -123,6 +103,15 @@
       <option name="presentableId" value="Default" />
       <updated>1727610782489</updated>
     </task>
+    <task id="LOCAL-00001" summary="기본 프로젝트 생성&#10;DBHelper 제작중">
+      <option name="closed" value="true" />
+      <created>1727622928029</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727622928029</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
